@@ -1,7 +1,7 @@
 {
-  "name": "neverX",
-  "short_name": "neverX",
-  "description": "neverX",
+  "name": "CapCut",
+  "short_name": "CapCut",
+  "description": "CapCut",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait",
